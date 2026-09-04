@@ -464,30 +464,6 @@
         {
           "label": "10 ml",
           "presentation": "Caja x 100 unidades"
-        },
-        {
-          "label": "3 ml",
-          "presentation": "Caja x 100 unidades"
-        },
-        {
-          "label": "5 ml",
-          "presentation": "Caja x 100 unidades"
-        },
-        {
-          "label": "10 ml",
-          "presentation": "Caja x 100 unidades"
-        },
-        {
-          "label": "3 ml",
-          "presentation": "Caja x 100 unidades"
-        },
-        {
-          "label": "5 ml",
-          "presentation": "Caja x 100 unidades"
-        },
-        {
-          "label": "10 ml",
-          "presentation": "Caja x 100 unidades"
         }
       ]
     },
@@ -558,22 +534,6 @@
       "description": "Catéter venoso periférico estéril, disponible en varios calibres.",
       "presentation": "Caja x 50 unidades",
       "variants": [
-        {
-          "label": "20G",
-          "presentation": "Caja x 50 unidades"
-        },
-        {
-          "label": "22G",
-          "presentation": "Caja x 50 unidades"
-        },
-        {
-          "label": "20G",
-          "presentation": "Caja x 50 unidades"
-        },
-        {
-          "label": "22G",
-          "presentation": "Caja x 50 unidades"
-        },
         {
           "label": "20G",
           "presentation": "Caja x 50 unidades"
@@ -1102,22 +1062,6 @@
       "description": "Termómetro de frente sin contacto con tecnología infrarroja",
       "presentation": "Unidad individual",
       "featured": true
-    },
-    {
-      "id": "oxi-001",
-      "name": "Oxímetro de pulso",
-      "category": "medicion",
-      "subcategory": "oximetros",
-      "description": "Pulsoxímetro de dedo con pantalla OLED",
-      "presentation": "Unidad individual"
-    },
-    {
-      "id": "oxi-002",
-      "name": "Oxímetro pediátrico",
-      "category": "medicion",
-      "subcategory": "oximetros",
-      "description": "Pulsoxímetro especialmente diseñado para pacientes pediátricos",
-      "presentation": "Unidad individual"
     },
     {
       "id": "glu-001",
