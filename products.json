@@ -1,0 +1,1110 @@
+{
+  "products": [
+    {
+      "id": "jer-001",
+      "name": "Jeringas desechables",
+      "category": "desechables",
+      "subcategory": "jeringas",
+      "description": "Jeringas estériles con aguja incorporada, ideales para aplicaciones médicas de precisión. Disponibles en varios volúmenes.",
+      "presentation": "Caja x 100 unidades",
+      "featured": true,
+      "variants": [
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
+        }
+      ]
+    },
+    {
+      "id": "gua-001",
+      "name": "Guantes de látex talla M",
+      "category": "desechables",
+      "subcategory": "guantes",
+      "description": "Guantes de látex de alta calidad, ideales para procedimientos médicos",
+      "presentation": "Caja x 100 unidades",
+      "featured": true
+    },
+    {
+      "id": "gua-002",
+      "name": "Guantes de nitrilo talla L",
+      "category": "desechables",
+      "subcategory": "guantes",
+      "description": "Guantes de nitrilo sin látex, resistentes y cómodos",
+      "presentation": "Caja x 100 unidades"
+    },
+    {
+      "id": "gua-003",
+      "name": "Guantes quirúrgicos estériles",
+      "category": "desechables",
+      "subcategory": "guantes",
+      "description": "Guantes estériles para procedimientos quirúrgicos",
+      "presentation": "Par x 50 unidades"
+    },
+    {
+      "id": "mas-001",
+      "name": "Mascarillas quirúrgicas tricapa",
+      "category": "desechables",
+      "subcategory": "mascarillas",
+      "description": "Mascarillas desechables de tres capas con alta filtración",
+      "presentation": "Caja x 50 unidades",
+      "featured": true
+    },
+    {
+      "id": "mas-002",
+      "name": "Mascarillas N95",
+      "category": "desechables",
+      "subcategory": "mascarillas",
+      "description": "Respirador de partículas N95 certificado",
+      "presentation": "Caja x 20 unidades"
+    },
+    {
+      "id": "mas-003",
+      "name": "Mascarillas con visor",
+      "category": "desechables",
+      "subcategory": "mascarillas",
+      "description": "Mascarilla con protección facial completa",
+      "presentation": "Unidad individual"
+    },
+    {
+      "id": "per-001",
+      "name": "Catéter periférico",
+      "category": "desechables",
+      "subcategory": "pericraneales",
+      "description": "Catéter venoso periférico estéril, disponible en varios calibres.",
+      "presentation": "Caja x 50 unidades",
+      "variants": [
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        }
+      ]
+    },
+    {
+      "id": "per-003",
+      "name": "Set de venoclisis",
+      "category": "desechables",
+      "subcategory": "pericraneales",
+      "description": "Set completo de venoclisis con regulador de flujo",
+      "presentation": "Caja x 25 unidades"
+    },
+    {
+      "id": "sil-001",
+      "name": "Silla de ruedas estándar",
+      "category": "rehabilitacion",
+      "subcategory": "sillas",
+      "description": "Silla de ruedas plegable con reposabrazos y reposapiés ajustables",
+      "presentation": "Unidad individual",
+      "featured": true
+    },
+    {
+      "id": "sil-002",
+      "name": "Silla de ruedas deportiva",
+      "category": "rehabilitacion",
+      "subcategory": "sillas",
+      "description": "Silla de ruedas ligera para actividades deportivas",
+      "presentation": "Unidad individual"
+    },
+    {
+      "id": "sil-003",
+      "name": "Silla de ruedas reclinable",
+      "category": "rehabilitacion",
+      "subcategory": "sillas",
+      "description": "Silla de ruedas con respaldo reclinable para mayor comodidad",
+      "presentation": "Unidad individual"
+    },
+    {
+      "id": "and-001",
+      "name": "Andadera plegable",
+      "category": "rehabilitacion",
+      "subcategory": "andaderas",
+      "description": "Andadera de aluminio ligero y plegable",
+      "presentation": "Unidad individual"
+    },
+    {
+      "id": "and-002",
+      "name": "Andadera con ruedas",
+      "category": "rehabilitacion",
+      "subcategory": "andaderas",
+      "description": "Andadera con ruedas delanteras y frenos de seguridad",
+      "presentation": "Unidad individual"
+    },
+    {
+      "id": "and-003",
+      "name": "Andadera articulada",
+      "category": "rehabilitacion",
+      "subcategory": "andaderas",
+      "description": "Andadera articulada para terapia de marcha",
+      "presentation": "Unidad individual"
+    },
+    {
+      "id": "neb-001",
+      "name": "Nebulizador ultrasónico",
+      "category": "rehabilitacion",
+      "subcategory": "nebulizadores",
+      "description": "Nebulizador de tecnología ultrasónica silencioso",
+      "presentation": "Unidad individual con accesorios",
+      "featured": true
+    },
+    {
+      "id": "neb-002",
+      "name": "Nebulizador portátil",
+      "category": "rehabilitacion",
+      "subcategory": "nebulizadores",
+      "description": "Nebulizador de mano recargable y portátil",
+      "presentation": "Unidad individual"
+    },
+    {
+      "id": "neb-003",
+      "name": "Nebulizador de compresor",
+      "category": "rehabilitacion",
+      "subcategory": "nebulizadores",
+      "description": "Nebulizador de compresor profesional",
+      "presentation": "Unidad individual con kit completo"
+    },
+    {
+      "id": "rod-001",
+      "name": "Rodillera ortopédica ajustable",
+      "category": "soporte",
+      "subcategory": "rodilleras",
+      "description": "Rodillera con soporte lateral y compresión graduada",
+      "presentation": "Unidad individual - Talla M",
+      "featured": true
+    },
+    {
+      "id": "rod-002",
+      "name": "Rodillera deportiva",
+      "category": "soporte",
+      "subcategory": "rodilleras",
+      "description": "Rodillera elástica para actividad física",
+      "presentation": "Unidad individual - Talla L"
+    },
+    {
+      "id": "rod-003",
+      "name": "Rodillera con bisagras",
+      "category": "soporte",
+      "subcategory": "rodilleras",
+      "description": "Rodillera articulada con bisagras laterales",
+      "presentation": "Unidad individual - Ajustable"
+    },
+    {
+      "id": "faj-001",
+      "name": "Faja lumbar terapéutica",
+      "category": "soporte",
+      "subcategory": "fajas",
+      "description": "Faja de soporte lumbar con bandas de compresión",
+      "presentation": "Unidad individual - Talla M"
+    },
+    {
+      "id": "faj-002",
+      "name": "Faja postquirúrgica abdominal",
+      "category": "soporte",
+      "subcategory": "fajas",
+      "description": "Faja de compresión para recuperación postquirúrgica",
+      "presentation": "Unidad individual - Talla L"
+    },
+    {
+      "id": "faj-003",
+      "name": "Faja maternal prenatal",
+      "category": "soporte",
+      "subcategory": "fajas",
+      "description": "Faja de soporte para embarazo con banda ajustable",
+      "presentation": "Unidad individual - Talla única"
+    },
+    {
+      "id": "mun-001",
+      "name": "Muñequera con férula",
+      "category": "soporte",
+      "subcategory": "munequeras",
+      "description": "Muñequera ortopédica con férula de aluminio",
+      "presentation": "Unidad individual - Mano derecha"
+    },
+    {
+      "id": "mun-002",
+      "name": "Muñequera elástica",
+      "category": "soporte",
+      "subcategory": "munequeras",
+      "description": "Muñequera de compresión elástica",
+      "presentation": "Par - Talla M"
+    },
+    {
+      "id": "mun-003",
+      "name": "Muñequera para túnel carpiano",
+      "category": "soporte",
+      "subcategory": "munequeras",
+      "description": "Muñequera especializada para síndrome del túnel carpiano",
+      "presentation": "Unidad individual - Ajustable"
+    },
+    {
+      "id": "inm-001",
+      "name": "Inmovilizador de hombro",
+      "category": "soporte",
+      "subcategory": "inmovilizadores",
+      "description": "Cabestrillo inmovilizador de hombro ajustable",
+      "presentation": "Unidad individual - Talla única",
+      "featured": true
+    },
+    {
+      "id": "inm-002",
+      "name": "Inmovilizador de tobillo",
+      "category": "soporte",
+      "subcategory": "inmovilizadores",
+      "description": "Bota inmovilizadora para esguinces y fracturas",
+      "presentation": "Unidad individual - Talla M",
+      "featured": true
+    },
+    {
+      "id": "inm-003",
+      "name": "Collarín cervical",
+      "category": "soporte",
+      "subcategory": "inmovilizadores",
+      "description": "Collarín cervical de espuma con soporte rígido",
+      "presentation": "Unidad individual - Ajustable"
+    },
+    {
+      "id": "med-001",
+      "name": "Tensiómetro digital de brazo",
+      "category": "medicion",
+      "subcategory": "tensiometros",
+      "description": "Monitor automático de presión arterial con pantalla LCD",
+      "presentation": "Unidad individual con brazalete",
+      "featured": true
+    },
+    {
+      "id": "med-002",
+      "name": "Tensiómetro aneroide",
+      "category": "medicion",
+      "subcategory": "tensiometros",
+      "description": "Tensiómetro manual con estetoscopio incluido",
+      "presentation": "Kit completo"
+    },
+    {
+      "id": "med-003",
+      "name": "Tensiómetro de muñeca",
+      "category": "medicion",
+      "subcategory": "tensiometros",
+      "description": "Monitor portátil de presión arterial de muñeca",
+      "presentation": "Unidad individual"
+    },
+    {
+      "id": "ter-001",
+      "name": "Termómetro digital",
+      "category": "medicion",
+      "subcategory": "termometros",
+      "description": "Termómetro digital con punta flexible y lectura rápida",
+      "presentation": "Unidad individual"
+    },
+    {
+      "id": "ter-002",
+      "name": "Termómetro infrarrojo",
+      "category": "medicion",
+      "subcategory": "termometros",
+      "description": "Termómetro de frente sin contacto con tecnología infrarroja",
+      "presentation": "Unidad individual",
+      "featured": true
+    },
+    {
+      "id": "oxi-001",
+      "name": "Oxímetro de pulso",
+      "category": "medicion",
+      "subcategory": "oximetros",
+      "description": "Pulsoxímetro de dedo con pantalla OLED",
+      "presentation": "Unidad individual"
+    },
+    {
+      "id": "oxi-002",
+      "name": "Oxímetro pediátrico",
+      "category": "medicion",
+      "subcategory": "oximetros",
+      "description": "Pulsoxímetro especialmente diseñado para pacientes pediátricos",
+      "presentation": "Unidad individual"
+    },
+    {
+      "id": "glu-001",
+      "name": "Glucómetro digital",
+      "category": "medicion",
+      "subcategory": "glucometros",
+      "description": "Medidor de glucosa en sangre con tiras reactivas",
+      "presentation": "Kit con 25 tiras"
+    },
+    {
+      "id": "est-001",
+      "name": "Estetoscopio profesional",
+      "category": "medicion",
+      "subcategory": "estetoscopios",
+      "description": "Estetoscopio de doble campana con alta sensibilidad acústica",
+      "presentation": "Unidad individual"
+    }
+  ]
+}
