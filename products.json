@@ -476,8 +476,29 @@
         {
           "label": "10 ml",
           "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml",
+          "presentation": "Caja x 100 unidades"
         }
       ]
+    },
+    {
+      "id": "jer-002",
+      "name": "Jeringas desechables",
+      "category": "desechables",
+      "subcategory": "jeringas",
+      "description": "Jeringas estériles con aguja incorporada, ideales para aplicaciones médicas de precisión. Disponibles en varios volúmenes.",
+      "presentation": "Caja x 50 unidades",
+      "featured": true
     },
     {
       "id": "gua-001",
@@ -537,6 +558,14 @@
       "description": "Catéter venoso periférico estéril, disponible en varios calibres.",
       "presentation": "Caja x 50 unidades",
       "variants": [
+        {
+          "label": "20G",
+          "presentation": "Caja x 50 unidades"
+        },
+        {
+          "label": "22G",
+          "presentation": "Caja x 50 unidades"
+        },
         {
           "label": "20G",
           "presentation": "Caja x 50 unidades"
