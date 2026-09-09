@@ -1,22 +1,13 @@
 {
   "products": [
     {
-      "id": "rod-004",
-      "name": "Rodillera",
-      "category": "soporte",
-      "subcategory": "rodilleras",
-      "description": "Rodillera de algodón",
-      "presentation": "Unidad",
-      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/rod-004-1788973802001.webp"
-    },
-    {
       "id": "jer-001",
       "name": "Jeringas desechables",
       "category": "desechables",
       "subcategory": "jeringas",
       "description": "Jeringas estériles con aguja incorporada, ideales para aplicaciones médicas de precisión. Disponibles en varios volúmenes.",
       "presentation": "Caja x 100 unidades",
-      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/jer-001-1788973904632.webp",
+      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/Syringe.png",
       "featured": true,
       "variants": [
         {
