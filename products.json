@@ -7,31 +7,8 @@
       "subcategory": "jeringas",
       "description": "Jeringas estériles con aguja incorporada, ideales para aplicaciones médicas de precisión. Disponibles en varios volúmenes.",
       "presentation": "Caja x 100 unidades",
-      "image": "https://cdn.jsdelivr.net/gh/ConnectaStudio/Mediguatex-Demo-Final@main/Syringe.png",
+      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/Syringe.png",
       "featured": true,
-      "variants": [
-        {
-          "label": "3 ml",
-          "presentation": "Caja x 100 unidades"
-        },
-        {
-          "label": "5 ml",
-          "presentation": "Caja x 100 unidades"
-        },
-        {
-          "label": "10 ml",
-          "presentation": "Caja x 100 unidades"
-        }
-      ]
-    },
-    {
-      "id": "jer-002",
-      "name": "Jeringas desechables",
-      "category": "desechables",
-      "subcategory": "jeringas",
-      "description": "Jeringas estériles con aguja incorporada, ideales para aplicaciones médicas de precisión. Disponibles en varios volúmenes.",
-      "presentation": "Caja x 99 unidades",
-      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/jer-002-1788969395839.webp",
       "variants": [
         {
           "label": "3 ml",
@@ -204,7 +181,7 @@
       "subcategory": "rodilleras",
       "description": "Rodillera con soporte lateral y compresión graduada",
       "presentation": "Unidad individual - Talla M",
-      "image": "https://cdn.jsdelivr.net/gh/ConnectaStudio/Mediguatex-Demo-Final@main/Rodillera.png",
+      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/Rodillera.png",
       "featured": true
     },
     {
@@ -287,7 +264,7 @@
       "subcategory": "inmovilizadores",
       "description": "Bota inmovilizadora para esguinces y fracturas",
       "presentation": "Unidad individual - Talla M",
-      "image": "https://cdn.jsdelivr.net/gh/ConnectaStudio/Mediguatex-Demo-Final@main/Tobillera.png",
+      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/Tobillera.png",
       "featured": true
     },
     {
