@@ -1,23 +1,13 @@
 {
   "products": [
     {
-      "id": "rod-004",
-      "name": "Rodillera",
-      "category": "soporte",
-      "subcategory": "rodilleras",
-      "description": "Rodillera de algodón",
-      "presentation": "Unidad",
-      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/rod-004-1788973802001.webp",
-      "featured": true
-    },
-    {
       "id": "jer-001",
       "name": "Jeringas desechables",
       "category": "desechables",
       "subcategory": "jeringas",
       "description": "Jeringas estériles con aguja incorporada, ideales para aplicaciones médicas de precisión. Disponibles en varios volúmenes.",
       "presentation": "Caja x 100 unidades",
-      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/jer-001-1788973904632.webp",
+      "featured": true,
       "variants": [
         {
           "label": "3 ml",
@@ -39,7 +29,8 @@
       "category": "desechables",
       "subcategory": "guantes",
       "description": "Guantes de látex de alta calidad, ideales para procedimientos médicos",
-      "presentation": "Caja x 100 unidades"
+      "presentation": "Caja x 100 unidades",
+      "featured": true
     },
     {
       "id": "gua-002",
@@ -55,8 +46,7 @@
       "category": "desechables",
       "subcategory": "guantes",
       "description": "Guantes estériles para procedimientos quirúrgicos",
-      "presentation": "Par x 50 unidades",
-      "featured": true
+      "presentation": "Par x 50 unidades"
     },
     {
       "id": "mas-001",
@@ -64,7 +54,8 @@
       "category": "desechables",
       "subcategory": "mascarillas",
       "description": "Mascarillas desechables de tres capas con alta filtración",
-      "presentation": "Caja x 50 unidades"
+      "presentation": "Caja x 50 unidades",
+      "featured": true
     },
     {
       "id": "mas-002",
@@ -163,7 +154,8 @@
       "category": "rehabilitacion",
       "subcategory": "nebulizadores",
       "description": "Nebulizador de tecnología ultrasónica silencioso",
-      "presentation": "Unidad individual con accesorios"
+      "presentation": "Unidad individual con accesorios",
+      "featured": true
     },
     {
       "id": "neb-002",
@@ -188,7 +180,7 @@
       "subcategory": "rodilleras",
       "description": "Rodillera con soporte lateral y compresión graduada",
       "presentation": "Unidad individual - Talla M",
-      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/Rodillera.png"
+      "featured": true
     },
     {
       "id": "rod-002",
@@ -260,7 +252,8 @@
       "category": "soporte",
       "subcategory": "inmovilizadores",
       "description": "Cabestrillo inmovilizador de hombro ajustable",
-      "presentation": "Unidad individual - Talla única"
+      "presentation": "Unidad individual - Talla única",
+      "featured": true
     },
     {
       "id": "inm-002",
@@ -269,7 +262,7 @@
       "subcategory": "inmovilizadores",
       "description": "Bota inmovilizadora para esguinces y fracturas",
       "presentation": "Unidad individual - Talla M",
-      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/Tobillera.png"
+      "featured": true
     },
     {
       "id": "inm-003",
@@ -285,7 +278,8 @@
       "category": "medicion",
       "subcategory": "tensiometros",
       "description": "Monitor automático de presión arterial con pantalla LCD",
-      "presentation": "Unidad individual con brazalete"
+      "presentation": "Unidad individual con brazalete",
+      "featured": true
     },
     {
       "id": "med-002",
@@ -317,7 +311,8 @@
       "category": "medicion",
       "subcategory": "termometros",
       "description": "Termómetro de frente sin contacto con tecnología infrarroja",
-      "presentation": "Unidad individual"
+      "presentation": "Unidad individual",
+      "featured": true
     },
     {
       "id": "oxi-001",
@@ -338,6 +333,14 @@
     {
       "id": "glu-001",
       "name": "Glucómetro digital",
+      "category": "medicion",
+      "subcategory": "glucometros",
+      "description": "Medidor de glucosa en sangre con tiras reactivas",
+      "presentation": "Kit con 25 tiras"
+    },
+    {
+      "id": "glu-002",
+      "name": "Glucómetro análogo",
       "category": "medicion",
       "subcategory": "glucometros",
       "description": "Medidor de glucosa en sangre con tiras reactivas",
