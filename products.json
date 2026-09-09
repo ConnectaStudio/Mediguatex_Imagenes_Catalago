@@ -1,6 +1,15 @@
 {
   "products": [
     {
+      "id": "rod-004",
+      "name": "Rodillera",
+      "category": "soporte",
+      "subcategory": "rodilleras",
+      "description": "Rodillera de algodón",
+      "presentation": "Unidad",
+      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/rod-004-1788973802001.webp"
+    },
+    {
       "id": "jer-001",
       "name": "Jeringas desechables",
       "category": "desechables",
