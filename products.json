@@ -7,7 +7,8 @@
       "subcategory": "rodilleras",
       "description": "Rodillera de algodón",
       "presentation": "Unidad",
-      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/rod-004-1788973802001.webp"
+      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/rod-004-1788973802001.webp",
+      "featured": true
     },
     {
       "id": "jer-001",
@@ -54,7 +55,8 @@
       "category": "desechables",
       "subcategory": "guantes",
       "description": "Guantes estériles para procedimientos quirúrgicos",
-      "presentation": "Par x 50 unidades"
+      "presentation": "Par x 50 unidades",
+      "featured": true
     },
     {
       "id": "mas-001",
@@ -62,8 +64,7 @@
       "category": "desechables",
       "subcategory": "mascarillas",
       "description": "Mascarillas desechables de tres capas con alta filtración",
-      "presentation": "Caja x 50 unidades",
-      "featured": true
+      "presentation": "Caja x 50 unidades"
     },
     {
       "id": "mas-002",
@@ -162,8 +163,7 @@
       "category": "rehabilitacion",
       "subcategory": "nebulizadores",
       "description": "Nebulizador de tecnología ultrasónica silencioso",
-      "presentation": "Unidad individual con accesorios",
-      "featured": true
+      "presentation": "Unidad individual con accesorios"
     },
     {
       "id": "neb-002",
@@ -188,8 +188,7 @@
       "subcategory": "rodilleras",
       "description": "Rodillera con soporte lateral y compresión graduada",
       "presentation": "Unidad individual - Talla M",
-      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/Rodillera.png",
-      "featured": true
+      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/Rodillera.png"
     },
     {
       "id": "rod-002",
@@ -261,8 +260,7 @@
       "category": "soporte",
       "subcategory": "inmovilizadores",
       "description": "Cabestrillo inmovilizador de hombro ajustable",
-      "presentation": "Unidad individual - Talla única",
-      "featured": true
+      "presentation": "Unidad individual - Talla única"
     },
     {
       "id": "inm-002",
@@ -271,8 +269,7 @@
       "subcategory": "inmovilizadores",
       "description": "Bota inmovilizadora para esguinces y fracturas",
       "presentation": "Unidad individual - Talla M",
-      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/Tobillera.png",
-      "featured": true
+      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/Tobillera.png"
     },
     {
       "id": "inm-003",
@@ -288,8 +285,7 @@
       "category": "medicion",
       "subcategory": "tensiometros",
       "description": "Monitor automático de presión arterial con pantalla LCD",
-      "presentation": "Unidad individual con brazalete",
-      "featured": true
+      "presentation": "Unidad individual con brazalete"
     },
     {
       "id": "med-002",
@@ -321,8 +317,7 @@
       "category": "medicion",
       "subcategory": "termometros",
       "description": "Termómetro de frente sin contacto con tecnología infrarroja",
-      "presentation": "Unidad individual",
-      "featured": true
+      "presentation": "Unidad individual"
     },
     {
       "id": "oxi-001",
