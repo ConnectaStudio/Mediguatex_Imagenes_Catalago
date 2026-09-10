@@ -317,6 +317,14 @@
       "presentation": "Unidad individual"
     },
     {
+      "id": "oxi-003",
+      "name": "Oxímetro de pulso (copia)",
+      "category": "medicion",
+      "subcategory": "oximetros",
+      "description": "Pulsoxímetro de dedo con pantalla OLED",
+      "presentation": "Unidad individual"
+    },
+    {
       "id": "oxi-002",
       "name": "Oxímetro pediátrico",
       "category": "medicion",
