@@ -54,8 +54,7 @@
       "category": "desechables",
       "subcategory": "mascarillas",
       "description": "Mascarillas desechables de tres capas con alta filtración",
-      "presentation": "Caja x 50 unidades",
-      "featured": true
+      "presentation": "Caja x 50 unidades"
     },
     {
       "id": "mas-002",
@@ -105,8 +104,7 @@
       "category": "rehabilitacion",
       "subcategory": "sillas",
       "description": "Silla de ruedas plegable con reposabrazos y reposapiés ajustables",
-      "presentation": "Unidad individual",
-      "featured": true
+      "presentation": "Unidad individual"
     },
     {
       "id": "sil-002",
@@ -154,8 +152,7 @@
       "category": "rehabilitacion",
       "subcategory": "nebulizadores",
       "description": "Nebulizador de tecnología ultrasónica silencioso",
-      "presentation": "Unidad individual con accesorios",
-      "featured": true
+      "presentation": "Unidad individual con accesorios"
     },
     {
       "id": "neb-002",
@@ -179,8 +176,7 @@
       "category": "soporte",
       "subcategory": "rodilleras",
       "description": "Rodillera con soporte lateral y compresión graduada",
-      "presentation": "Unidad individual - Talla M",
-      "featured": true
+      "presentation": "Unidad individual - Talla M"
     },
     {
       "id": "rod-002",
@@ -252,8 +248,7 @@
       "category": "soporte",
       "subcategory": "inmovilizadores",
       "description": "Cabestrillo inmovilizador de hombro ajustable",
-      "presentation": "Unidad individual - Talla única",
-      "featured": true
+      "presentation": "Unidad individual - Talla única"
     },
     {
       "id": "inm-002",
@@ -278,8 +273,7 @@
       "category": "medicion",
       "subcategory": "tensiometros",
       "description": "Monitor automático de presión arterial con pantalla LCD",
-      "presentation": "Unidad individual con brazalete",
-      "featured": true
+      "presentation": "Unidad individual con brazalete"
     },
     {
       "id": "med-002",
