@@ -318,11 +318,12 @@
     },
     {
       "id": "oxi-003",
-      "name": "Oxímetro de pulso (copia)",
+      "name": "Oxímetro de pulso 2.0",
       "category": "medicion",
       "subcategory": "oximetros",
       "description": "Pulsoxímetro de dedo con pantalla OLED",
-      "presentation": "Unidad individual"
+      "presentation": "Unidad individual",
+      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/oxi-003-1789050841155.webp"
     },
     {
       "id": "oxi-002",
