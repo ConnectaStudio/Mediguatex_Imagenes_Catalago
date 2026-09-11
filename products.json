@@ -106,16 +106,32 @@
       "category": "desechables",
       "subcategory": "venoset",
       "description": "",
-      "presentation": ""
+      "presentation": "",
+      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/des-012-1789147259337.webp"
     },
     {
       "id": "des-013",
-      "name": "Guantes de Latex S M L",
+      "name": "Guantes de Latex",
       "category": "desechables",
       "subcategory": "guantes",
       "description": "",
       "presentation": "",
-      "featured": true
+      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/des-013-1789147362827.webp",
+      "featured": true,
+      "variants": [
+        {
+          "label": "Tallla",
+          "presentation": "S"
+        },
+        {
+          "label": "Talla",
+          "presentation": "M"
+        },
+        {
+          "label": "Talla L",
+          "presentation": ""
+        }
+      ]
     },
     {
       "id": "des-014",
