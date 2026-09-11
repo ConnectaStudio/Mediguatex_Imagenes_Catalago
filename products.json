@@ -10,6 +10,16 @@
       "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/des-001-1789146568847.webp"
     },
     {
+      "id": "alg-002",
+      "name": "Algodón absorbente en rollo 1 Libra (copia)",
+      "category": "desechables",
+      "subcategory": "algodon",
+      "description": "super absorbente",
+      "presentation": "",
+      "image": "https://raw.githubusercontent.com/ConnectaStudio/Mediguatex_Imagenes_Catalago/main/alg-002-1789148655740.webp",
+      "featured": true
+    },
+    {
       "id": "des-002",
       "name": "Bolsa de orina 2000ml bolsa con 10 unidades",
       "category": "desechables",
