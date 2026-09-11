@@ -2,134 +2,158 @@
   "products": [
     {
       "id": "des-001",
-      "name": "Algodón absorbente en rollo 1 Libra",
+      "name": "Algodón absorbente en rollo",
       "category": "desechables",
       "subcategory": "algodon",
-      "description": "",
-      "presentation": ""
+      "description": "Algodón absorbente para curaciones y uso médico.",
+      "presentation": "Rollo de 1 libra"
     },
     {
       "id": "des-002",
-      "name": "Bolsa de orina 2000ml bolsa con 10 unidades",
+      "name": "Bolsa de orina 2000ml",
       "category": "desechables",
       "subcategory": "bolsas de orina",
-      "description": "",
-      "presentation": ""
+      "description": "Bolsa colectora de orina con válvula de drenaje.",
+      "presentation": "Bolsa x 10 unidades"
     },
     {
       "id": "des-003",
-      "name": "Especulo vaginal ajustable talla M",
+      "name": "Espéculo vaginal ajustable",
       "category": "desechables",
       "subcategory": "especulos",
-      "description": "",
-      "presentation": ""
+      "description": "Espéculo vaginal ajustable para examen ginecológico. Talla M.",
+      "presentation": "Unidad"
     },
     {
       "id": "des-004",
-      "name": "Gasas 4\" x 4\" estéril caja 50 sobres",
+      "name": "Gasas 4\" x 4\" estéril",
       "category": "desechables",
       "subcategory": "gasas",
-      "description": "",
-      "presentation": "",
+      "description": "Gasas estériles para curación y limpieza de heridas.",
+      "presentation": "Caja x 50 sobres",
       "featured": true
     },
     {
       "id": "des-005",
-      "name": "Jeringa con aguja 10ml, 21Gx1 1/2 enroscable caja 100 unidades",
+      "name": "Jeringa con aguja enroscable",
       "category": "desechables",
       "subcategory": "jeringas",
-      "description": "",
-      "presentation": ""
+      "description": "Jeringa estéril con aguja enroscable para aplicaciones médicas de precisión. Disponible en volúmenes y calibres: 3 ml · 21G x 1½, 3 ml · 22G x 1½, 5 ml · 21G x 1½, 5 ml · 22G x 1½, 10 ml · 21G x 1½, 10 ml · 22G x 1½, 20 ml · 21G x 1½.",
+      "presentation": "Caja x 100 unidades",
+      "featured": true,
+      "variants": [
+        {
+          "label": "3 ml · 21G x 1½",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "3 ml · 22G x 1½",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml · 21G x 1½",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "5 ml · 22G x 1½",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml · 21G x 1½",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "10 ml · 22G x 1½",
+          "presentation": "Caja x 100 unidades"
+        },
+        {
+          "label": "20 ml · 21G x 1½",
+          "presentation": "Caja x 50 unidades"
+        }
+      ]
     },
     {
       "id": "des-006",
-      "name": "Jeringa con aguja 10ml, 22Gx1 1/2 enroscable caja 100 unidades",
+      "name": "Venoset a presión 1 vía 20gotas con aguja 21G 1 1/2",
       "category": "desechables",
-      "subcategory": "jeringas",
-      "description": "",
-      "presentation": ""
+      "subcategory": "venoclisis",
+      "description": "Equipo de venoclisis para administración de soluciones intravenosas.",
+      "presentation": "Bolsa x 25 unidades"
     },
     {
       "id": "des-007",
-      "name": "Jeringa con aguja 20ml, 21Gx1 1/2 enroscable caja 50 unidades",
+      "name": "Guantes de Látex",
       "category": "desechables",
-      "subcategory": "jeringas",
-      "description": "",
-      "presentation": ""
+      "subcategory": "guantes",
+      "description": "Guantes para examinación y procedimientos médicos, cómodos y resistentes. Disponible en tallas: S, M, L.",
+      "presentation": "Unidad",
+      "featured": true,
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L",
+          "presentation": "Unidad"
+        }
+      ]
     },
     {
       "id": "des-008",
-      "name": "Jeringa con aguja 3ml, 21Gx1 1/2 enroscable caja 100 unidades",
+      "name": "Guante de nitrilo",
       "category": "desechables",
-      "subcategory": "jeringas",
-      "description": "",
-      "presentation": ""
+      "subcategory": "guantes",
+      "description": "Guantes para examinación y procedimientos médicos, cómodos y resistentes. Disponible en tallas: S, M, L.",
+      "presentation": "Unidad",
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L",
+          "presentation": "Unidad"
+        }
+      ]
     },
     {
       "id": "des-009",
-      "name": "Jeringa con aguja 3ml, 22Gx1 1/2 enroscable caja 100 unidades",
-      "category": "desechables",
-      "subcategory": "jeringas",
-      "description": "",
-      "presentation": ""
-    },
-    {
-      "id": "des-010",
-      "name": "Jeringa con aguja 5ml, 21Gx1 1/2 enroscable caja 100 unidades",
-      "category": "desechables",
-      "subcategory": "jeringas",
-      "description": "",
-      "presentation": "",
-      "featured": true
-    },
-    {
-      "id": "des-011",
-      "name": "Jeringa con aguja 5ml, 22Gx1 1/2 enroscable caja 100 unidades",
-      "category": "desechables",
-      "subcategory": "jeringas",
-      "description": "",
-      "presentation": ""
-    },
-    {
-      "id": "des-012",
-      "name": "Venoset a presion 1Y 20gotas con aguja 21G 1 1/2 bolsa 25unidades",
-      "category": "desechables",
-      "subcategory": "venoset",
-      "description": "",
-      "presentation": ""
-    },
-    {
-      "id": "des-013",
-      "name": "Guantes de Latex S M L",
+      "name": "Guante estéril quirúrgico",
       "category": "desechables",
       "subcategory": "guantes",
-      "description": "",
-      "presentation": "",
-      "featured": true
-    },
-    {
-      "id": "des-014",
-      "name": "Guante de Nitrilo S M L",
-      "category": "desechables",
-      "subcategory": "guantes",
-      "description": "",
-      "presentation": ""
-    },
-    {
-      "id": "des-015",
-      "name": "Guante esteril quirurgico 6.5 - 7 - 7.5",
-      "category": "desechables",
-      "subcategory": "guantes",
-      "description": "",
-      "presentation": ""
+      "description": "Guantes para examinación y procedimientos médicos, cómodos y resistentes. Disponible en tallas: 6.5, 7, 7.5.",
+      "presentation": "Unidad",
+      "variants": [
+        {
+          "label": "Talla 6.5",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla 7",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla 7.5",
+          "presentation": "Unidad"
+        }
+      ]
     },
     {
       "id": "med-001",
       "name": "Monitor de presión automático digital para brazo",
       "category": "medicion",
       "subcategory": "tensiometros",
-      "description": "",
-      "presentation": "",
+      "description": "Monitor digital y automático de presión arterial de brazo.",
+      "presentation": "Unidad",
       "featured": true
     },
     {
@@ -137,155 +161,402 @@
       "name": "Nebulizador con Mascarilla",
       "category": "medicion",
       "subcategory": "nebulizadores",
-      "description": "",
-      "presentation": "",
+      "description": "Nebulizador con mascarilla para terapia respiratoria.",
+      "presentation": "Unidad",
       "featured": true
     },
     {
       "id": "reh-001",
-      "name": "Baston de aluminio con 3 patas ajustable",
+      "name": "Bastón de aluminio con 3 patas ajustable",
       "category": "rehabilitacion",
       "subcategory": "bastones",
-      "description": "",
-      "presentation": ""
+      "description": "Bastón de aluminio para apoyo y estabilidad en la marcha.",
+      "presentation": "Unidad"
     },
     {
       "id": "reh-002",
-      "name": "Baston de aluminio con 4 patas ajustable",
+      "name": "Bastón de aluminio con 4 patas ajustable",
       "category": "rehabilitacion",
       "subcategory": "bastones",
-      "description": "",
-      "presentation": "",
+      "description": "Bastón de aluminio para apoyo y estabilidad en la marcha.",
+      "presentation": "Unidad",
       "featured": true
     },
     {
       "id": "reh-003",
-      "name": "Muletas de aluminio ajustable pequeña (par)",
+      "name": "Muletas de aluminio ajustable",
       "category": "rehabilitacion",
       "subcategory": "muletas",
-      "description": "",
-      "presentation": ""
+      "description": "Muletas de aluminio ajustables para apoyo y movilidad. Disponible en tamaños: Pequeña, Mediana, Grande.",
+      "presentation": "Par",
+      "featured": true,
+      "variants": [
+        {
+          "label": "Pequeña",
+          "presentation": "Par"
+        },
+        {
+          "label": "Mediana",
+          "presentation": "Par"
+        },
+        {
+          "label": "Grande",
+          "presentation": "Par"
+        }
+      ]
     },
     {
       "id": "reh-004",
-      "name": "Muletas de aluminio ajustable Medina (par)",
+      "name": "Bastón de aluminio mango recto",
       "category": "rehabilitacion",
-      "subcategory": "muletas",
-      "description": "",
-      "presentation": ""
+      "subcategory": "bastones",
+      "description": "Bastón de aluminio para apoyo y estabilidad en la marcha.",
+      "presentation": "Unidad"
     },
     {
       "id": "reh-005",
-      "name": "Muletas de aluminio ajustable Grande (par)",
-      "category": "rehabilitacion",
-      "subcategory": "muletas",
-      "description": "",
-      "presentation": ""
-    },
-    {
-      "id": "reh-006",
-      "name": "Baston de aluminio mango recto",
+      "name": "Bastón con asiento",
       "category": "rehabilitacion",
       "subcategory": "bastones",
-      "description": "",
-      "presentation": ""
-    },
-    {
-      "id": "reh-007",
-      "name": "Baston con asiento",
-      "category": "rehabilitacion",
-      "subcategory": "bastones",
-      "description": "",
-      "presentation": ""
+      "description": "Bastón de aluminio para apoyo y estabilidad en la marcha.",
+      "presentation": "Unidad"
     },
     {
       "id": "sop-001",
-      "name": "Cabestrillo para el brazo talla L",
+      "name": "Cabestrillo para el brazo",
       "category": "soporte",
       "subcategory": "cabestrillos",
-      "description": "",
-      "presentation": ""
+      "description": "Cabestrillo para inmovilización y descanso del brazo. Disponible en tallas: S, M, L.",
+      "presentation": "Unidad",
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L",
+          "presentation": "Unidad"
+        }
+      ]
     },
     {
       "id": "sop-002",
-      "name": "Cabestrillo para el brazo talla M",
+      "name": "Cabestrillo para el brazo tipo malla",
       "category": "soporte",
       "subcategory": "cabestrillos",
-      "description": "",
-      "presentation": ""
+      "description": "Cabestrillo para inmovilización y descanso del brazo. Talla M.",
+      "presentation": "Unidad"
     },
     {
       "id": "sop-003",
-      "name": "Cabestrillo para el brazo talla S",
+      "name": "Codera elástica",
       "category": "soporte",
-      "subcategory": "cabestrillos",
-      "description": "",
-      "presentation": ""
+      "subcategory": "coderas",
+      "description": "Codera elástica de soporte y compresión para el codo. Disponible en tallas: S, M.",
+      "presentation": "Unidad",
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        }
+      ]
     },
     {
       "id": "sop-004",
-      "name": "Cabestrillo para el brazo tipo malla talla M",
+      "name": "Collarín blando",
       "category": "soporte",
-      "subcategory": "cabestrillos",
-      "description": "",
-      "presentation": ""
+      "subcategory": "collarines",
+      "description": "Collarín cervical blando para soporte del cuello. Disponible en tallas: S, M, L.",
+      "presentation": "Unidad",
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L",
+          "presentation": "Unidad"
+        }
+      ]
     },
     {
       "id": "sop-005",
-      "name": "Codera elástica talla M",
+      "name": "Correa ajustable para rótula",
       "category": "soporte",
-      "subcategory": "coderas",
-      "description": "",
-      "presentation": ""
+      "subcategory": "rotulas",
+      "description": "Correa ajustable de soporte para la rótula. Talla única.",
+      "presentation": "Unidad"
     },
     {
       "id": "sop-006",
-      "name": "Codera elástica talla S",
+      "name": "Estabilizador para muñeca ajustable",
       "category": "soporte",
-      "subcategory": "coderas",
-      "description": "",
-      "presentation": ""
+      "subcategory": "munequeras",
+      "description": "Estabilizador de muñeca con soporte ajustable. Talla única.",
+      "presentation": "Unidad"
     },
     {
       "id": "sop-007",
-      "name": "Collarín blando talla L",
+      "name": "Estabilizador para muñeca con férula, ambidiestro",
       "category": "soporte",
-      "subcategory": "collarines",
-      "description": "",
-      "presentation": ""
+      "subcategory": "munequeras",
+      "description": "Estabilizador de muñeca con soporte ajustable. Disponible en tallas: S/M, L/XL.",
+      "presentation": "Unidad",
+      "variants": [
+        {
+          "label": "Talla S/M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L/XL",
+          "presentation": "Unidad"
+        }
+      ]
     },
     {
       "id": "sop-008",
-      "name": "Collarín blando talla M",
+      "name": "Faja abdominal",
       "category": "soporte",
-      "subcategory": "collarines",
-      "description": "",
-      "presentation": "",
-      "featured": true
+      "subcategory": "fajas",
+      "description": "Faja de soporte y compresión para la zona lumbar o abdominal. Disponible en tallas: S, M, L.",
+      "presentation": "Unidad",
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L",
+          "presentation": "Unidad"
+        }
+      ]
     },
     {
       "id": "sop-009",
-      "name": "Collarín blando talla S",
+      "name": "Faja industrial de trabajo con tirantes",
       "category": "soporte",
-      "subcategory": "collarines",
-      "description": "",
-      "presentation": ""
+      "subcategory": "fajas",
+      "description": "Faja de soporte y compresión para la zona lumbar o abdominal. Disponible en tallas: S, M, L, XL.",
+      "presentation": "Unidad",
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla XL",
+          "presentation": "Unidad"
+        }
+      ]
     },
     {
       "id": "sop-010",
-      "name": "Correa ajustable para rótula talla unica",
+      "name": "Faja lumbar de neopreno",
       "category": "soporte",
-      "subcategory": "rotulas",
-      "description": "",
-      "presentation": ""
+      "subcategory": "fajas",
+      "description": "Faja de soporte y compresión para la zona lumbar o abdominal. Disponible en tallas: S, M, L, XL.",
+      "presentation": "Unidad",
+      "featured": true,
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla XL",
+          "presentation": "Unidad"
+        }
+      ]
     },
     {
       "id": "sop-011",
-      "name": "Estabilizador para muñeca ajustable talla unica",
+      "name": "Rodillera ajustable de neopreno",
       "category": "soporte",
-      "subcategory": "munequeras",
-      "description": "",
-      "presentation": ""
+      "subcategory": "rodilleras",
+      "description": "Rodillera de soporte y compresión para la rodilla. Talla única.",
+      "presentation": "Unidad"
+    },
+    {
+      "id": "sop-012",
+      "name": "Rodillera elástica",
+      "category": "soporte",
+      "subcategory": "rodilleras",
+      "description": "Rodillera de soporte y compresión para la rodilla. Disponible en tallas: S, M, L.",
+      "presentation": "Unidad",
+      "featured": true,
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L",
+          "presentation": "Unidad"
+        }
+      ]
+    },
+    {
+      "id": "sop-013",
+      "name": "Rodillera estabilizadora con bisagra de neopreno",
+      "category": "soporte",
+      "subcategory": "rodilleras",
+      "description": "Rodillera de soporte y compresión para la rodilla. Disponible en tallas: S, M, L.",
+      "presentation": "Unidad",
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L",
+          "presentation": "Unidad"
+        }
+      ]
+    },
+    {
+      "id": "sop-014",
+      "name": "Rodillera estabilizadora de neopreno ajustable",
+      "category": "soporte",
+      "subcategory": "rodilleras",
+      "description": "Rodillera de soporte y compresión para la rodilla. Disponible en tallas: S, M, L.",
+      "presentation": "Unidad",
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L",
+          "presentation": "Unidad"
+        }
+      ]
+    },
+    {
+      "id": "sop-015",
+      "name": "Soporte de neopreno para muslo",
+      "category": "soporte",
+      "subcategory": "soportes",
+      "description": "Soporte de neopreno para el muslo. Talla S.",
+      "presentation": "Unidad"
+    },
+    {
+      "id": "sop-016",
+      "name": "Tobillera de neopreno ajustable",
+      "category": "soporte",
+      "subcategory": "tobilleras",
+      "description": "Tobillera de soporte y compresión para el tobillo. Disponible en tallas: S, M, L.",
+      "presentation": "Unidad",
+      "featured": true,
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L",
+          "presentation": "Unidad"
+        }
+      ]
+    },
+    {
+      "id": "sop-017",
+      "name": "Tobillera de neopreno",
+      "category": "soporte",
+      "subcategory": "tobilleras",
+      "description": "Tobillera de soporte y compresión para el tobillo. Disponible en tallas: S, M, L.",
+      "presentation": "Unidad",
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L",
+          "presentation": "Unidad"
+        }
+      ]
+    },
+    {
+      "id": "sop-018",
+      "name": "Tobillera elástica sin talón",
+      "category": "soporte",
+      "subcategory": "tobilleras",
+      "description": "Tobillera de soporte y compresión para el tobillo. Disponible en tallas: S, M, L.",
+      "presentation": "Unidad",
+      "variants": [
+        {
+          "label": "Talla S",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla M",
+          "presentation": "Unidad"
+        },
+        {
+          "label": "Talla L",
+          "presentation": "Unidad"
+        }
+      ]
+    },
+    {
+      "id": "sop-019",
+      "name": "Tobillera elástica",
+      "category": "soporte",
+      "subcategory": "tobilleras",
+      "description": "Tobillera de soporte y compresión para el tobillo. Talla L.",
+      "presentation": "Unidad"
     },
     {
       "id": "sop-012",
