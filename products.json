@@ -166,8 +166,7 @@
       "category": "medicion",
       "subcategory": "tensiometros",
       "description": "",
-      "presentation": "",
-      "featured": true
+      "presentation": ""
     },
     {
       "id": "med-002",
@@ -175,8 +174,7 @@
       "category": "medicion",
       "subcategory": "nebulizadores",
       "description": "",
-      "presentation": "",
-      "featured": true
+      "presentation": ""
     },
     {
       "id": "reh-001",
@@ -192,8 +190,7 @@
       "category": "rehabilitacion",
       "subcategory": "bastones",
       "description": "",
-      "presentation": "",
-      "featured": true
+      "presentation": ""
     },
     {
       "id": "reh-003",
@@ -297,8 +294,7 @@
       "category": "soporte",
       "subcategory": "collarines",
       "description": "",
-      "presentation": "",
-      "featured": true
+      "presentation": ""
     },
     {
       "id": "sop-009",
@@ -410,8 +406,7 @@
       "category": "soporte",
       "subcategory": "fajas",
       "description": "",
-      "presentation": "",
-      "featured": true
+      "presentation": ""
     },
     {
       "id": "sop-023",
@@ -451,8 +446,7 @@
       "category": "soporte",
       "subcategory": "rodilleras",
       "description": "",
-      "presentation": "",
-      "featured": true
+      "presentation": ""
     },
     {
       "id": "sop-028",
@@ -556,8 +550,7 @@
       "category": "soporte",
       "subcategory": "tobilleras",
       "description": "",
-      "presentation": "",
-      "featured": true
+      "presentation": ""
     },
     {
       "id": "sop-041",
